@@ -24,6 +24,7 @@
     background-color: #050505;
     cursor: pointer;
     margin-top: -550px;
+    position: fixed;
 }
 .spanClr {
     color: var(--White, #FFF);
@@ -45,8 +46,9 @@
     height: 72px;
     flex-shrink: 0;
     margin-left: 208px;
-    margin-top: -72px;
+    margin-top: -550px;
     cursor: pointer;
+    position: fixed;
 }
 .CheckInClass {
     display: grid;
