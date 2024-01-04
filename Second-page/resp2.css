@@ -1,0 +1,133 @@
+@media (width > 768px) {
+    #hehe1 {
+        width: 223px;
+        font-size: 55px;
+        margin-left: -450px;
+        margin-top: 40px;
+    }
+    #hehe2 {
+        margin-left: 300px;
+        margin-top: -260px;
+    }
+    #hehe3 {
+        margin-left: 300px;
+    }
+    #hehe4 {
+        margin-left: 300px;
+    }
+    #hehe5 {
+        margin-left: 300px;
+    }
+    #hehe6 {
+        margin-left: 300px;
+    }
+    #he1 {
+        margin-left: -550px;
+    }
+    #he2 {
+        margin-top: -150px;
+        font-size: 16px;
+    }
+    #he3 {
+        margin-left: 500px;
+        margin-top: -350px;
+    }
+}
+
+
+@media (width > 1439px) {
+    #hehe1 {
+        width: 350px;
+        color: var(--White, #FFF);
+        font-feature-settings: 'clig' off, 'liga' off;
+        font-family: Big Shoulders Display;
+        font-size: 70px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 70px; 
+        text-transform: uppercase;
+        margin-left: -600px;
+    }
+    #hehe2 {
+        width: 350px;
+        color: var(--Gold, #D5966C);
+        font-feature-settings: 'clig' off, 'liga' off;
+        font-family: Big Shoulders Display;
+        font-size: 36px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 36px;
+        text-transform: uppercase;
+        margin-left: 400px;
+        margin-top: -300px;
+    }
+    #hehe3 {
+        width: 445px;
+        color: var(--White, #FFF);
+        font-feature-settings: 'clig' off, 'liga' off;
+        font-family: Outfit;
+        font-size: 22px;
+        font-style: normal;
+        font-weight: 300;
+        line-height: 32px; 
+        margin-left: 400px;
+    }
+    #hehe4 {
+        width: 445px;
+        color: var(--White, #FFF);
+        font-feature-settings: 'clig' off, 'liga' off;
+        font-family: Outfit;
+        font-size: 22px;
+        font-style: normal;
+        font-weight: 300;
+        line-height: 32px; 
+        margin-left: 400px;
+    }
+    #hehe5 {
+        width: 445px;
+        color: var(--White, #FFF);
+        font-feature-settings: 'clig' off, 'liga' off;
+        font-family: Outfit;
+        font-size: 22px;
+        font-style: normal;
+        font-weight: 300;
+        line-height: 32px; 
+        margin-left: 400px;
+    }
+    #hehe6 {
+        width: 540px;
+        margin-left: 400px;
+    }
+    #he1 {
+        background-image: url(/Second-page/Desk/MODERNARTGALLERYDESK.svg);
+        background-repeat: no-repeat;
+        width: 159.572px;
+        height: 58px;
+        flex-shrink: 0;
+        margin-left: -750px;
+    }
+    #he2 {
+        margin-top: -210px;
+        width: 430px;
+        flex-shrink: 0;
+        color: var(--Almost-Black, #151515);
+        font-family: Outfit;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 300;
+        line-height: 28px; /* 155.556% */
+    }
+    #he3 {
+        margin-left: 700px;
+        margin-top: -390px;
+    }
+    #fb2 {
+        font-size: 30px;
+    }
+    #Ig {
+        font-size: 30px;
+    }
+    #Tw {
+        font-size: 30px;
+    }
+}
