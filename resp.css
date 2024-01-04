@@ -1,0 +1,228 @@
+@media (width>769px) {
+    .grannyPic {
+        background-image: url(/Assets/Tab/Granny-tab.svg);
+        background-repeat: no-repeat;
+        width: 437px;
+        height: 700px;
+        flex-shrink: 0;
+        margin-left: -334px;
+    }
+    .grannysLeft {
+        display: grid;
+        margin-top: -700px;
+        margin-left: 350px;
+    }
+    .PicCont {
+        display: grid;
+        place-items: center;
+        grid-template-areas : 'ori erti'
+                              'sami erti'
+                              'otxi xuti'
+                              'otxi eqvsi';
+                              column-gap: 11px;
+    }
+    .firstPic {
+        grid-area: erti;
+        background-image: url(/Assets/Tab/FirstPic-tab.svg);
+        background-repeat: no-repeat;
+        width: 398px;
+        height: 400px;
+        flex-shrink: 0;
+        margin-top: 0px;
+        margin-left: -120px;
+    }
+    .PCh1 {
+        grid-area: ori;
+        margin-top: 0px;
+        margin-left: -170px;
+        width: 223px;
+    }
+    .PCH2 {
+        grid-area: sami;
+        margin-top: 0px;
+        margin-left: -170px;
+        width: 223px;
+        margin-top: -80px;
+    }
+    .SecondPic {
+        grid-area: otxi;
+        background-image: url(/Assets/Tab/SecondPic-tab.svg);
+        background-repeat: no-repeat;
+        width: 398px;
+        height: 720px;
+        flex-shrink: 0;
+        margin-top: 11px;
+        margin-left: 0px;
+    }
+    .ThirddPic {
+        grid-area: xuti;
+        background-image: url(/Assets/Tab/ThirdPic-tab.svg);
+        background-repeat: no-repeat;
+        width: 280px;
+        height: 313px;
+        flex-shrink: 0;
+        margin-top: 11px;
+        margin-left: 0px;
+    }
+    .BlackWin  {
+        grid-area: eqvsi;
+        margin-top: 10px;
+        margin-left: 0px;
+        width: 280px;
+        height: 396px;
+        flex-shrink: 0;
+    }
+    .BWinh2 {
+        width: 223px;
+    }
+    footer {
+        display: flex;
+        justify-content: center;
+        place-items: center;
+    }
+    .footer-Art {
+        margin-top: -150px;
+        margin-left: -100px;
+    }
+    .Fh1 {
+        margin-top: -110px;
+    }
+    .Socials {
+        margin-top: -180px;
+        margin-left: 30px;
+    }
+}
+@media (width>1439px) {
+    .blackLeft {
+        width: 1050px;
+        height: 799px;
+        flex-shrink: 0;
+        background-color: #050505;
+        margin-left: -650px;
+    }
+    .grannyPic {
+        background-image: url(/Assets/Desk/GrannyDesk.svg);
+        background-repeat: no-repeat;
+        width: 540px;
+        height: 800px;
+        flex-shrink: 0;
+        margin-left: -0px;
+        margin-top: -800px;
+    }
+    .grannysLeft {
+        display: grid;
+        margin-top: -800px;
+        margin-left: 0px;
+    }
+    .GrannydownTxt {
+        width: 514px;
+        color: var(--White, #FFF);
+        font-feature-settings: 'clig' off, 'liga' off;
+        font-family: Big Shoulders Display;
+        font-size: 96px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 88px;
+        text-transform: uppercase;
+        margin-left: -67px;
+        margin-top: -150px;
+    } 
+    .Gdt2 {
+        width: 350px;
+        color: var(--Dark-Grey, #444);
+        font-feature-settings: 'clig' off, 'liga' off;
+        font-family: Outfit;
+        font-size: 22px;
+        font-style: normal;
+        font-weight: 300;
+        line-height: 32px;
+        margin-left: 700px;
+        margin-top: -180px;
+    }
+    .LocDiv {
+        margin-left: 700px;
+    }
+    .arrowDiv {
+        margin-left: 900px;
+    }
+    .firstPic {
+        background-image: url(/Assets/Desk/FirstPic-desk.svg);
+        background-repeat: no-repeat;
+        width: 635px;
+        height: 400px;
+        flex-shrink: 0;
+        margin-left: -190px;
+    }
+    .SecondPic {
+        background-image: url(/Assets/Desk/SecondPic-desk.svg);
+        background-repeat: no-repeat;
+        width: 635px;
+        height: 720px;
+        flex-shrink: 0;
+        margin-top: 19px;
+    }
+    .ThirddPic {
+        background-image: url(/Assets/Desk/thirdPic-desk.svg);
+        background-repeat: no-repeat;
+        width: 445px;
+        height: 313px;
+        flex-shrink: 0;
+        margin-top: 20px;
+    }
+    .BlackWin {
+        width: 445px;
+        height: 377px;
+        flex-shrink: 0;
+        margin-top: 30px;
+    }
+    .PCh1 {
+        width: 350px;
+        color: var(--Almost-Black, #151515);
+        font-feature-settings: 'clig' off, 'liga' off;
+        font-family: Big Shoulders Display;
+        font-size: 60px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 60px;
+        text-transform: uppercase;
+        margin-left: -250px;
+    }
+    .PCH2 {
+        width: 350px;
+        color: var(--Dark-Grey, #444);
+        font-feature-settings: 'clig' off, 'liga' off;
+        font-family: Outfit;
+        font-size: 22px;
+        font-style: normal;
+        font-weight: 300;
+        line-height: 32px;
+        margin-left: -250px;
+    } 
+    .footer-Art {
+        background-image: url(/Assets/Desk/MODERNARTGALLERYFOOTER.svg);
+        background-repeat: no-repeat;
+        width: 159.572px;
+        height: 58px;
+        margin-left: -60px;
+    }
+    .Fh1 {
+        width: 430px;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 300;
+        line-height: 28px;
+        margin-left: 150px;
+    }
+    .Socials {
+        margin-left: 100px;
+    }
+    #Fb {
+        font-size: 30px;
+    }
+    #Ig {
+        font-size: 30px;
+    }
+    #Tw {
+        font-size: 30px;
+    }
+}
