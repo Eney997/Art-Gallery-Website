@@ -94,11 +94,11 @@
 }
 @media (width>1439px) {
     .blackLeft {
-        width: 1050px;
+        width: 1250px;
         height: 799px;
         flex-shrink: 0;
         background-color: #050505;
-        margin-left: -650px;
+        margin-left: -750px;
     }
     .grannyPic {
         background-image: url(/Assets/Desk/GrannyDesk.svg);
