@@ -12,6 +12,17 @@
         margin-top: -700px;
         margin-left: 350px;
     }
+    .artClassJust {
+        width: 343px;
+        color: var(--Almost-Black, #151515);
+        font-family: Big Shoulders Display;
+        font-size: 60px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 55px;
+        text-transform: uppercase;
+        margin-top: 32px;
+    }
     .PicCont {
         display: grid;
         place-items: center;
@@ -93,6 +104,17 @@
     }
 }
 @media (width>1439px) {
+    .artClassJust {
+        width: 343px;
+        color: var(--Almost-Black, #151515);
+        font-family: Big Shoulders Display;
+        font-size: 96px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 55px;
+        text-transform: uppercase;
+        margin-top: 32px;
+    }
     .blackLeft {
         width: 1250px;
         height: 799px;
